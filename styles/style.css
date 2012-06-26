@@ -1,0 +1,27 @@
+div.wrapper {
+	margin-right: auto;
+	margin-left: auto;
+	border-color: black;
+	border-style: solid;
+	border-width: 2px;
+	height: 80%;
+	width: 80%;
+	background-color: #cccccc;
+}
+
+div.game {
+	margin-right: auto;
+	margin-left: auto;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	height: 384px;
+	width: 768px;
+}
+
+div.progressbarContainer
+{
+	display:none;
+	width:400px;
+	height:300px;
+}
